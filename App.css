@@ -1,0 +1,8 @@
+/* DigitalClock.css */
+.digital-clock {
+  font-family: 'Arial', sans-serif;
+  font-size: 3rem;
+  text-align: center;
+  margin: 20px;
+  color: #333;
+}
